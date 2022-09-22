@@ -3,8 +3,6 @@ package br.senai.sp.jandira;
 import java.time.LocalDate;
 import java.time.LocalTime;
 
-import javax.swing.JOptionPane;
-
 import br.senai.sp.jandira.model.Agenda;
 import br.senai.sp.jandira.model.Endereco;
 import br.senai.sp.jandira.model.Especialidade;
