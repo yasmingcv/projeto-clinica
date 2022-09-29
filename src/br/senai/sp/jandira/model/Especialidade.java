@@ -4,9 +4,24 @@ import javax.swing.JOptionPane;
 
 public class Especialidade {
 
+// Atributos
+	
 private String nome;
 private String descricao;
 
+//Construtores da classe
+
+
+public Especialidade(String nome) {
+	this.nome = nome;
+}
+public Especialidade() {
+	
+}
+public Especialidade(String nome, String descricao) {
+	this.nome = nome;
+	this.descricao = descricao;
+}
 
 //	Métodos de acesso aos atributos
 
